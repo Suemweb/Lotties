@@ -1,0 +1,2 @@
+# Lotties
+Lotties animations files
